@@ -2,7 +2,11 @@
 layout: default
 ---
 
-My name is **Vasiliev Evgeny**
+My name is **Vasiliev Evgeny**.
+
+I'm PhD student PhD student in Lobachevsky State University.
+
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
