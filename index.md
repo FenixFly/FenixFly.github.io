@@ -4,7 +4,7 @@ layout: default
 
 My name is **Vasiliev Evgeny**.
 
-I'm PhD student PhD student in Lobachevsky State University.
+I'm teacher assistant and PhD student in Lobachevsky State University.
 
 # [](#header-1)About me
 
@@ -12,12 +12,30 @@ Age: 25
 
 City: Nizhny Novgorod, Russia
 
-English level: intermediate
+Languages: Russian (native), English (intermediate)
 
 E-mail: eugene.unn@gmail.com
 
 # [](#header-2)Education
 
+2010-2014
+Bachelor's degree in Lobachevsky State University
+
+2014-2016
+Master's degree in Lobachevsky State University 
+
+2016-current time
+PhD student in Lobachevsky State University
+
+2017
+Exchange student in Saitama University
+
+# [](#header-2)Area of research
+
+* Scientific visualization
+* Medical segmentation
+* Computational Geometry
+* Geometric Modelling
 
 # [](#header-2)SKILLS
 
@@ -27,8 +45,6 @@ E-mail: eugene.unn@gmail.com
 * GUI Design
 * Debuging and Troubleshooting
 * Agile
-
-
 
 # [](#header-2)Technology Summary
 
