@@ -9,9 +9,12 @@ I'm PhD student PhD student in Lobachevsky State University.
 # [](#header-1)About me
 
 Age: 25
+
 City: Nizhny Novgorod, Russia
-E-mail: eugene.unn@gmail.com
+
 English level: intermediate
+
+E-mail: eugene.unn@gmail.com
 
 # [](#header-2)Education
 
