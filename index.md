@@ -8,11 +8,26 @@ I'm PhD student PhD student in Lobachevsky State University.
 
 # [](#header-1)About me
 
+Age: 25
+City: Nizhny Novgorod, Russia
+E-mail: eugene.unn@gmail.com
+English level: intermediate
 
-# [](#header-1)Education
+# [](#header-2)Education
 
 
-# [](#header-1)Technology Summary
+# [](#header-2)SKILLS
+
+* Software Development
+* Coding & Scripting
+* Crossplatform programming
+* GUI Design
+* Debuging and Troubleshooting
+* Agile
+
+
+
+# [](#header-2)Technology Summary
 
 *   **Programming/Languages**: С, C++, C#, OpenGL, GLSL
 *   **Programming/Technologies**: CMake, Git, Svn 
