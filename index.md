@@ -8,6 +8,8 @@ I'm teacher assistant and PhD student in Lobachevsky State University.
 
 # [](#header-1)About me
 
+![](images/cutted.jpg)
+
 Age: 25
 
 City: Nizhny Novgorod, Russia
@@ -54,7 +56,6 @@ Exchange student in Saitama University
 *   **Systems**: Windows, Linux
 
 [Link to another page](another-page).
-
 
 * * *
 
