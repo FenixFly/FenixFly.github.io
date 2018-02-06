@@ -55,8 +55,6 @@ Exchange student in Saitama University
 *   **Programming/Frameworks**: Qt, VTK, ITK, CGAL, OpenTK
 *   **Systems**: Windows, Linux
 
-[Link to another page](another-page).
-
 * * *
 
 # [](#header-2)Links
@@ -66,14 +64,3 @@ Exchange student in Saitama University
 * **VK**: [Here](https://vk.com/eugene_v)
 * **Instagram**: [Here](https://www.instagram.com/eugene.unn)
 * **ResearchGate**: [Here](https://www.researchgate.net/profile/Evgeniy_Vasilyev)
-
-
-### Small image
-
-![](https://assets-cdn.github.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![](https://guides.github.com/activities/hello-world/branching.png)
-
-
