@@ -38,9 +38,7 @@ Exchange student in Saitama University
 # [](#header-2)Area of research
 
 * Scientific visualization
-* Medical segmentation
-* Computational Geometry
-* Geometric Modelling
+* Medical segmentation & reconstruction
 
 ## [](#header-3)Papers
 
