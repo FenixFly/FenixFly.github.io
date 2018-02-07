@@ -48,6 +48,13 @@ Exchange student in Saitama University
 * NI Gavrilov, EP Vasiliev, IV Khramov, AA Getmanskaya, VE Turlapov. Visual analytics and segmentation of color biomedical high resolution cryo-imaging scans. 2017.  
 * E.Vasilev, A.Belokameskaya, M.Novozhilov, V.Turlapov. A parallel algorithm for 3D reconstruction of internal organs according to imaging based on the active contour model. 10th Annual International Scientific Conference on Parallel Computing Technologies, PACT 2016. 
 
+## Courses Taught 
+
+* Programming Basics
+* Computer Graphics
+* Geometric Modelling
+* Computational Geometry 
+
 # [](#header-2)Skills
 
 * Software Development
