@@ -42,6 +42,12 @@ Exchange student in Saitama University
 * Computational Geometry
 * Geometric Modelling
 
+## [](#header-3)Papers
+
+* Vasiliev Evgeny. GENERATION OF AN ATLAS-BASED FINITE ELEMENT MODEL OF THE HEART FOR CARDIAC SIMULATION. MATHEMATICAL MODELING. 2017.
+* NI Gavrilov, EP Vasiliev, IV Khramov, AA Getmanskaya, VE Turlapov. Visual analytics and segmentation of color biomedical high resolution cryo-imaging scans. 2017.  
+* E.Vasilev, A.Belokameskaya, M.Novozhilov, V.Turlapov. A parallel algorithm for 3D reconstruction of internal organs according to imaging based on the active contour model. 10th Annual International Scientific Conference on Parallel Computing Technologies, PACT 2016. 
+
 # [](#header-2)Skills
 
 * Software Development
