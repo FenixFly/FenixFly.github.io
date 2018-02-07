@@ -18,15 +18,18 @@ Languages: Russian (native), English (intermediate)
 
 E-mail: eugene.unn@gmail.com
 
-# [](#header-2)Education
+# [](#header-2)Education and Career
 
-2010-2014
+2010 - 2014
 Bachelor's degree in Lobachevsky State University
 
-2014-2016
+2012 - 2013
+Java software developer in MERA Software
+
+2014 - 2016
 Master's degree in Lobachevsky State University 
 
-2016-current time
+2016 to present
 PhD student in Lobachevsky State University
 
 2017
@@ -39,7 +42,7 @@ Exchange student in Saitama University
 * Computational Geometry
 * Geometric Modelling
 
-# [](#header-2)SKILLS
+# [](#header-2)Skills
 
 * Software Development
 * Coding & Scripting
