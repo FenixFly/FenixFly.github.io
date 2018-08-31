@@ -2,7 +2,7 @@
 layout: default
 ---
 
-My name is **Vasiliev Evgeny**.
+My name is **Evgeny Vasiliev**.
 
 I'm teacher assistant and PhD student in Lobachevsky State University.
 
