@@ -42,6 +42,9 @@ Exchange student in Saitama University
 
 ## [](#header-3)Papers
 
+* Valentin Petrov, Sergey Lebedev, Anna Pirova, Evgeniy Vasilyev, Alexander Nikolskiy, Vadim Turlapov, Iosif Meyerov and Grigory Osipov. CARDIOMODEL - NEW SOFTWARE FOR CARDIAC ELECTROPHYSIOLOGY SIMULATION. Russian Supercomputing Days:
+Proceedings of the international conference. 2018.
+* Eugene Vasiliev, Dmitry Lachinov, Anton Grishin, and Vadim Turlapov. Fast tetrahedral mesh generation and segmentation of an atlas-based heart model using a periodic uniform grid. Russian Journal of Numerical Analysis and Mathematical Modelling, 2018.
 * Vasiliev Evgeny. GENERATION OF AN ATLAS-BASED FINITE ELEMENT MODEL OF THE HEART FOR CARDIAC SIMULATION. MATHEMATICAL MODELING. 2017.
 * NI Gavrilov, EP Vasiliev, IV Khramov, AA Getmanskaya, VE Turlapov. Visual analytics and segmentation of color biomedical high resolution cryo-imaging scans. 2017.  
 * E.Vasilev, A.Belokameskaya, M.Novozhilov, V.Turlapov. A parallel algorithm for 3D reconstruction of internal organs according to imaging based on the active contour model. 10th Annual International Scientific Conference on Parallel Computing Technologies, PACT 2016. 
