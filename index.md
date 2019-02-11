@@ -42,6 +42,7 @@ Exchange student in Saitama University
 
 ## [](#header-3)Papers
 
+* Dmitry Lachinov, Evgeny Vasiliev and Vadim Turlapov. Glioma Segmentation with Cascaded Unet. https://arxiv.org/abs/1810.04008v1
 * Valentin Petrov, Sergey Lebedev, Anna Pirova, Evgeniy Vasilyev, Alexander Nikolskiy, Vadim Turlapov, Iosif Meyerov and Grigory Osipov. CARDIOMODEL - NEW SOFTWARE FOR CARDIAC ELECTROPHYSIOLOGY SIMULATION. Russian Supercomputing Days:
 Proceedings of the international conference. 2018.
 * Eugene Vasiliev, Dmitry Lachinov, Anton Grishin, and Vadim Turlapov. Fast tetrahedral mesh generation and segmentation of an atlas-based heart model using a periodic uniform grid. Russian Journal of Numerical Analysis and Mathematical Modelling, 2018.
